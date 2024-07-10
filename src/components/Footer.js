@@ -4,7 +4,7 @@ import './Footer.css';
 function Footer() {
   return (
     <footer>
-      <p>© MyName</p>
+      <p>Varsha-530</p>
     </footer>
   );
 }

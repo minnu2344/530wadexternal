@@ -5,7 +5,7 @@ import './Header.css';
 function Header() {
   return (
     <header>
-      <h1>My E-Commerce Site</h1>
+      <h1> 530-Ecommerce website</h1>
       <nav>
         <ul>
           <li><Link to="/">Home</Link></li>
